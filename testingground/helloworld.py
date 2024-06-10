@@ -1,7 +1,7 @@
 # git add .
 # git status
-# git 
-#
+# git commit -m "nth commit"
+# git push origin main
 
 
 print("hello world")
