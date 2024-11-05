@@ -3,7 +3,8 @@
 # git commit -m "nth commit"
 # git push origin main
 import matplotlib.pyplot as plt
-
+import tensorflow as tf
+from tqdm import tqdm
 
 print("hello world")
 print("I think this git is working")
